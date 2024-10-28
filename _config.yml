@@ -1,6 +1,8 @@
-url: "https://siic2356.github.io"
+url: "https://Siic2356.github.io"
 
 source: docs
+
+theme: jekyll-theme-cayman
 
 exclude:
   - .sass-cache/
