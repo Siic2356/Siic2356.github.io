@@ -1,4 +1,6 @@
-url: "https://siic2356.github.io/docs/"
+url: "https://siic2356.github.io/"
+
+source: docs
 
 exclude:
   - .sass-cache/
