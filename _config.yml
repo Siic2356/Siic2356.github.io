@@ -1,7 +1,5 @@
 url: "https://siic2356.github.io"
 
-source: docs
-
 exclude:
   - .sass-cache/
   - .jekyll-cache/
